@@ -1,0 +1,25 @@
+{
+  "id": "TEMPLATE-PICTURE-CHART-001",
+  "title": "图画加图表作文整合模板",
+  "knowledge_type": "template",
+  "status": "reviewing",
+  "evidence_level": "partially-validated",
+  "source_refs": ["SRC-REAL-ESSAYS-2016-2025"],
+  "tags": ["图画加图表", "整合描述", "低频题型"],
+  "original_observation": "近年真题出现图画和图表共同构成题面，图表提供数量趋势，图画提供现实场景和人物感受。",
+  "ai_analysis": "这类题不能把两幅材料机械并列描述，必须说明数据变化与图画场景共同指向的社会意义。",
+  "distilled_rule": "第一段完成‘数据—场景—共同主题’的整合；第二段解释数量变化背后的需求、价值和可能风险；第三段提出个人与公共层面的建议。",
+  "teaching_use": "作为低频题型的备用模板和综合审题训练。",
+  "template": "The picture and the chart present the same issue from complementary perspectives. The chart shows [trend], while the picture illustrates [scene]. Taken together, they suggest [theme].",
+  "interpretation": "图表负责说明规模或趋势，图画负责呈现具体影响，二者必须在段末汇合。",
+  "validation_cases": [
+    {"case_id": "2023-PART-B", "result": "pass", "note": "城市公园数量与居民使用场景可以由该结构整合。"}
+  ],
+  "conflicts": [],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-14",
+    "reviewers": [],
+    "next_action": "作者复核是否需要增加‘图画解释图表原因’和‘图表验证图画判断’两个变体。"
+  }
+}

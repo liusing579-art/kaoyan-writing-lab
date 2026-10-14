@@ -1,0 +1,25 @@
+{
+  "id": "TEMPLATE-MATERIAL-001",
+  "title": "文字材料作文观点提炼模板",
+  "knowledge_type": "template",
+  "status": "draft",
+  "evidence_level": "inferred",
+  "source_refs": ["SRC-MATERIAL-TEMPLATE", "SRC-HIGH-SCORE-40"],
+  "tags": ["材料作文", "名言型", "故事型", "现象型"],
+  "original_observation": "现有资料把文字材料作文与话题作文联系起来，常用观点引入、意义分析和行动建议结构。",
+  "ai_analysis": "文字材料的第一任务是准确概括并提炼材料内部的观点，不能直接套用图画描述句，也不能擅自把个案扩展为普遍事实。",
+  "distilled_rule": "首段概括材料中的关键事实或观点并给出立场；主体段解释观点成立的条件、个人价值和社会意义；结尾段把观点转化为行动。",
+  "teaching_use": "低频材料作文的备用模板，需按名言、故事和现象三种入口继续细化。",
+  "template": "The material tells us that [summary]. What deserves attention is [key turn]. It therefore raises an important question: [issue]. In my view, [position].",
+  "interpretation": "材料作文的迁移能力取决于概括准确和立场克制，而不是堆叠背景句。",
+  "validation_cases": [
+    {"case_id": "MATERIAL-TEST-001", "result": "pending", "note": "待项目作者建立独立材料题测试集。"}
+  ],
+  "conflicts": ["现有第三方材料模板的部分句子仍偏话题作文，需要通过真题或模拟题验证。"],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-14",
+    "reviewers": [],
+    "next_action": "补充至少三道材料型模拟题并判断英语一实际适用边界。"
+  }
+}

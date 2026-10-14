@@ -1,0 +1,38 @@
+{
+  "project": "kaoyan-writing-lab",
+  "last_updated": "2026-10-14",
+  "sources": [
+    {
+      "id": "SRC-HIGH-SCORE-40",
+      "file": "考研英语写作高分突破（高阶作文40）篇英语一.docx",
+      "kind": "teaching-book",
+      "read_scope": "目录、题型概述、图画作文与图表作文相关章节、模板注释和范文结构",
+      "copyright_risk": "high",
+      "repository_policy": "不复制全文，仅保存研究笔记和原创蒸馏"
+    },
+    {
+      "id": "SRC-PICTURE-CHART-TEMPLATES",
+      "file": "图画图表大作文模板3篇.pdf",
+      "kind": "third-party-template",
+      "read_scope": "图画作文正负面框架、图表动态静态框架",
+      "copyright_risk": "high",
+      "repository_policy": "只记录结构性观察，不复制模板原文"
+    },
+    {
+      "id": "SRC-MATERIAL-TEMPLATE",
+      "file": "赠送：文字型大作文.pdf",
+      "kind": "third-party-template",
+      "read_scope": "话题作文、名言引入、图画作文和背景句结构",
+      "copyright_risk": "high",
+      "repository_policy": "只保存原创改写和批评性分析"
+    },
+    {
+      "id": "SRC-REAL-ESSAYS-2016-2025",
+      "file": "2016-2025年考研英语一写作真题与范文.pdf",
+      "kind": "exam-and-model-essays",
+      "read_scope": "Part B 题型、题面要求、范文结构；重点核验图画与图画加图表题",
+      "copyright_risk": "high",
+      "repository_policy": "只保存题型标签、验证结论和短引文"
+    }
+  ]
+}

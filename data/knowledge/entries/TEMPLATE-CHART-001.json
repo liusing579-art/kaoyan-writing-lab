@@ -1,0 +1,26 @@
+{
+  "id": "TEMPLATE-CHART-001",
+  "title": "图表作文动态静态双入口模板",
+  "knowledge_type": "template",
+  "status": "reviewing",
+  "evidence_level": "source-backed",
+  "source_refs": ["SRC-HIGH-SCORE-40", "SRC-PICTURE-CHART-TEMPLATES"],
+  "tags": ["图表作文", "动态", "静态", "数据选择"],
+  "original_observation": "资料明确区分动态图表和静态图表，并要求呈现趋势、比例或类别差异。",
+  "ai_analysis": "图表作文的得分关键不是覆盖全部数据，而是准确写出总体趋势、最大变化和有意义的对比；原因必须和数据对象对应。",
+  "distilled_rule": "首段写图表对象、时间或比较范围、总体趋势和两到三个关键数据；主体段解释趋势的可能原因与意义；结尾段提出可持续发展的判断或建议。",
+  "teaching_use": "用于柱状图、折线图、饼图和表格的审题训练。",
+  "template": "The chart presents [topic] from [time] to [time]. Overall, [trend]. Specifically, [item 1] rose/fell from [x] to [y], while [item 2] [contrast].",
+  "interpretation": "避免逐项报数、虚构调查来源和机械套用经济科技政策三原因。",
+  "validation_cases": [
+    {"case_id": "2023-PART-B", "result": "pass", "note": "图表信息需要与图片场景整合，不应单独写成普通图表作文。"},
+    {"case_id": "2025-PART-B", "result": "pending", "note": "待作者补充表格数据核验。"}
+  ],
+  "conflicts": ["第三方资料使用固定数字和固定原因的示例，不能直接迁移到新题。"],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-14",
+    "reviewers": [],
+    "next_action": "补充一组动态折线图和一组静态比例图的完整成文测试。"
+  }
+}

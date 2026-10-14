@@ -1,0 +1,27 @@
+{
+  "id": "TEMPLATE-PICTURE-001",
+  "title": "图画作文三段式迁移模板",
+  "knowledge_type": "template",
+  "status": "reviewing",
+  "evidence_level": "partially-validated",
+  "source_refs": ["SRC-HIGH-SCORE-40", "SRC-PICTURE-CHART-TEMPLATES", "SRC-REAL-ESSAYS-2016-2025"],
+  "tags": ["图画作文", "积极类", "批判类", "对比类"],
+  "original_observation": "资料中的图画作文模板按人生哲理、批判现象和人物对比等变体组织，真题范文通常先描述关键动作，再提炼寓意，最后评论。",
+  "ai_analysis": "可以把多个变体压缩为一个主模板和三个入口句，但不能用相同的态度词覆盖正面、负面和对比题。",
+  "distilled_rule": "图画作文首段必须包含人物或场景、最有信息量的细节、中心寓意；主体段解释主题的现实作用或问题机制；结尾段提出个人与公共层面的行动。",
+  "teaching_use": "作为常见图画作文的主模板，适合配合‘正面、负面、对比’三种入口训练。",
+  "template": "The picture presents [scene]. What is particularly striking is that [key detail]. Although simple, it conveys a meaningful message: [theme].",
+  "interpretation": "描述不是逐项翻译画面，而是从动作关系、对比关系或文字说明中提取主题。",
+  "validation_cases": [
+    {"case_id": "2016-PART-B", "result": "pass", "note": "双图可使用对比入口。"},
+    {"case_id": "2019-PART-B", "result": "pass", "note": "休息与坚持主题可使用正面品质入口。"},
+    {"case_id": "2022-PART-B", "result": "pass", "note": "兴趣选择主题可使用人物对话入口。"}
+  ],
+  "conflicts": ["部分资料使用过度抽象的万能开头，已降级为不推荐表达。"],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-14",
+    "reviewers": [],
+    "next_action": "补充负面社会现象和双图对比的成文范例，并由作者审核词数。"
+  }
+}

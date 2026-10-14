@@ -1,0 +1,17 @@
+{
+  "name": "kaoyan-writing-lab",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "packageManager": "pnpm@11.25.0",
+  "description": "考研英语作文教学资料研发与知识蒸馏库",
+  "scripts": {
+    "validate": "node scripts/validate-knowledge.mjs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

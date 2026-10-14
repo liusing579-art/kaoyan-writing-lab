@@ -1,0 +1,38 @@
+:root {
+  --vp-c-brand-1: #1d4f5f;
+  --vp-c-brand-2: #286d7a;
+  --vp-c-brand-3: #8f5f3f;
+  --vp-c-bg-soft: #f4f1eb;
+  --vp-c-divider: #dfd8ce;
+  --vp-font-family-base: "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+.VPHomeHero .name,
+.VPHomeHero .text {
+  letter-spacing: -0.03em;
+}
+
+.vp-doc h2 {
+  margin-top: 2.5rem;
+}
+
+.vp-doc table {
+  display: table;
+  width: 100%;
+}
+
+.status-draft,
+.status-reviewing,
+.status-verified,
+.status-archived {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.status-draft { background: #fff0cf; color: #78520b; }
+.status-reviewing { background: #dcecf2; color: #1d4f5f; }
+.status-verified { background: #dcefdc; color: #2b6333; }
+.status-archived { background: #e8e8e8; color: #555; }
