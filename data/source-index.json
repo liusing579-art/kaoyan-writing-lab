@@ -63,6 +63,46 @@
       "sha256": "4AA3E2B03A0201B95B4A7BE7AC360296079640B223696A4725D8C4B417CF470A",
       "copyright_risk": "high",
       "repository_policy": "原图不进入 GitHub；只保留必要的事实核验笔记"
+    },
+    {
+      "id": "SRC-ENGLISH1-ESSAYS-2010-2023-DOCX",
+      "file": "2010-2023考研英语一作文真题_无损汇总.docx",
+      "kind": "exam-question-compilation",
+      "read_scope": "2010—2016 的 Task 1/Task 2 原题文字、字数和署名要求；核对嵌入题图对应年份",
+      "storage": "private-materials/english1-2010-2016/2010-2023考研英语一作文真题_无损汇总.docx",
+      "sha256": "7E5A22A563DE72750D05C6E59EA26CC1566DAAFB7CD45313ACC3DBE98FDFF716",
+      "copyright_risk": "high",
+      "repository_policy": "原件仅保存在本地受控资料目录；GitHub 只保存年份索引、任务摘要和研究结论"
+    },
+    {
+      "id": "SRC-ENGLISH1-ESSAYS-2010-2023-AI-PACK",
+      "file": "2010-2023考研英语一作文真题_AI资料包.zip",
+      "kind": "structured-extraction-and-images",
+      "read_scope": "2010—2016 的结构化 JSON/Markdown 和 Task 2 题图；用于核对题面字段、题图和主题标签的证据边界",
+      "storage": "private-materials/english1-2010-2016/2010-2023考研英语一作文真题_AI资料包.zip",
+      "sha256": "03D416ECFF170BACD338DF7EE5A196775E10E405BBB7A3F178C07215924070A0",
+      "copyright_risk": "high",
+      "repository_policy": "原件和题图不进入 GitHub；只保留必要的短摘要、来源标识和原创分析"
+    },
+    {
+      "id": "SRC-ENGLISH1-ESSAYS-2016-2025-PDF",
+      "file": "2016-2025年考研英语一写作真题与范文.pdf",
+      "kind": "exam-and-model-essays",
+      "read_scope": "20页；本轮仅读取第1—2页对 2016 年 Task 1/Task 2 的交叉核验信息，其他年份暂不纳入本表",
+      "storage": "private-materials/english1-2010-2016/2016-2025年考研英语一写作真题与范文.pdf",
+      "sha256": "37BB55ECC8CFFA2290DB223E3138B337A09821E1ACE704A653AF902AB0D32397",
+      "copyright_risk": "high",
+      "repository_policy": "原件仅保存在本地受控资料目录；不复制范文全文"
+    },
+    {
+      "id": "SRC-ENGLISH1-ESSAYS-2026-PAPER",
+      "file": "2026年英语一真题试卷（高清整理版）.pdf",
+      "kind": "exam-paper-out-of-scope",
+      "read_scope": "仅完成文件清点和 PDF 元数据核对；2026 年不属于本轮 2010—2016 一览表范围",
+      "storage": "private-materials/english1-2010-2016/2026年英语一真题试卷（高清整理版）.pdf",
+      "sha256": "628FE795924924F975FA99E90DB044BB844B4DC94502646F691F0A49B0498DD6",
+      "copyright_risk": "high",
+      "repository_policy": "原件仅保存在本地受控资料目录；待后续单独研究"
     }
   ]
 }
