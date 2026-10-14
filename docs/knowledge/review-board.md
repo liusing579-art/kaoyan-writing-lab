@@ -13,11 +13,12 @@
 
 | ID | 条目 | 状态 | 证据等级 | 下一步 |
 | --- | --- | --- | --- | --- |
-| `ESSAY-TYPES-001` | 四类题型底层任务 | <span class="status-reviewing">reviewing</span> | partially-validated | 四类题型拆分复核 |
+| `ESSAY-TYPES-001` | 五类题型底层任务 | <span class="status-reviewing">reviewing</span> | partially-validated | 五类题型拆分复核 |
 | `TEMPLATE-PICTURE-001` | 图画作文迁移模板 | <span class="status-reviewing">reviewing</span> | partially-validated | 补充负面和对比成文测试 |
 | `TEMPLATE-CHART-001` | 图表动态静态模板 | <span class="status-reviewing">reviewing</span> | source-backed | 补充完整图表测试 |
 | `TEMPLATE-PICTURE-CHART-001` | 图画加图表整合模板 | <span class="status-reviewing">reviewing</span> | partially-validated | 复核两个整合变体 |
 | `TEMPLATE-MATERIAL-001` | 材料作文观点提炼模板 | <span class="status-draft">draft</span> | inferred | 建立材料题测试集 |
+| `TEMPLATE-DOUBLE-CHART-001` | 双图表组合识别与迁移模板 | <span class="status-reviewing">reviewing</span> | source-backed | 用双图表真题测试四种组合入口 |
 
 ## 审核规则
 

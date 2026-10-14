@@ -20,8 +20,9 @@ data/
   knowledge/entries/       机器可读的知识条目 JSON
   knowledge.schema.json     知识条目字段约束
   source-index.json         原始资料索引，不复制受版权保护的全文
+private-materials/          本地受控原始资料，默认不进入 Git
 docs/
-  essay/                    四类大作文教材样章
+  essay/                    五类大作文教材样章
   knowledge/                知识库审核视图
   guide/                    工作流程、版权与 Codex 指令
   .vitepress/               VitePress 配置和主题
@@ -44,4 +45,4 @@ AGENTS.md                   Codex 和协作者共同遵守的规则
 - Codex 完整指令：[`docs/guide/codex-prompt.md`](./docs/guide/codex-prompt.md)
 - 审核状态：[`docs/knowledge/review-board.md`](./docs/knowledge/review-board.md)
 - 教材样章：[`docs/essay/overview.md`](./docs/essay/overview.md)
-- 四类模板总表：[`docs/essay/template-pack.md`](./docs/essay/template-pack.md)
+- 五类模板总表：[`docs/essay/template-pack.md`](./docs/essay/template-pack.md)

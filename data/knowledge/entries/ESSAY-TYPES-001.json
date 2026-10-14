@@ -1,15 +1,15 @@
 {
   "id": "ESSAY-TYPES-001",
-  "title": "英语一大作文四类题型的底层任务",
+  "title": "英语一大作文五类题型的底层任务",
   "knowledge_type": "workflow",
   "status": "reviewing",
   "evidence_level": "partially-validated",
   "source_refs": ["SRC-HIGH-SCORE-40", "SRC-PICTURE-CHART-TEMPLATES", "SRC-REAL-ESSAYS-2016-2025"],
   "tags": ["大作文", "题型识别", "三段式"],
   "original_observation": "资料普遍将大作文处理为描述或呈现材料、解释意义、发表评论三个功能段；真题中存在图画、图表以及图画加图表题面。",
-  "ai_analysis": "四类题型不应共用同一套首段。它们可以共享论证和评论的底层结构，但第一段必须分别处理视觉细节、数据趋势、图表与场景的关系、文字材料的观点提炼。",
+  "ai_analysis": "五类题型不应共用同一套首段。它们可以共享论证和评论的底层结构，但第一段必须分别处理视觉细节、数据趋势、图表与场景的关系、文字材料的观点提炼，以及双图表之间的组合关系。",
   "distilled_rule": "统一采用‘呈现材料—解释机制—评价与行动’的底层结构；根据题型更换第一段的信息处理方式和第二段的论证任务。",
-  "teaching_use": "作为四类模板章节的总纲和审题检查表。",
+  "teaching_use": "作为五类模板章节的总纲和审题检查表。",
   "template": "第一段识别材料，第二段回答为什么，第三段回答怎么办；不得把图画、图表和文字材料当作同一种开头处理。",
   "interpretation": "模板的迁移能力来自功能模块，而不是固定句子的数量。",
   "validation_cases": [
@@ -22,6 +22,6 @@
     "owner": "Codex",
     "last_reviewed": "2026-10-14",
     "reviewers": [],
-    "next_action": "由两位作者用至少四道真题共同复核，并将结果拆分到四个题型条目。"
+    "next_action": "由两位作者用至少五道真题或模拟题共同复核，并将结果拆分到五个题型条目。"
   }
 }

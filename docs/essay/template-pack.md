@@ -1,8 +1,8 @@
-# 四类大作文模板总表
+# 五类大作文模板总表
 
 <span class="status-reviewing">reviewing · 原创蒸馏版，待双作者和真题测试</span>
 
-这是目前可直接用于教学、背诵和考场替换的四类大作文模板总表。它不是一段不分题型的“万能作文”，而是按照题目材料的呈现方式选择入口，再用同一条底层逻辑完成文章：**呈现材料 → 解释机制 → 评价与行动**。
+这是目前可直接用于教学、背诵和考场替换的五类大作文模板总表。它不是一段不分题型的“万能作文”，而是按照题目材料的呈现方式选择入口，再用同一条底层逻辑完成文章：**呈现材料 → 解释机制 → 评价与行动**。
 
 ## 使用说明
 
@@ -216,6 +216,104 @@ In my view, 【中心立场】 because 【最核心的理由】.
 - **中心立场必须是可论证的判断。** `we should value it` 太弱，应写成 `individual effort must be supported by fair opportunities` 这类有条件、有方向的观点。
 - **第二段先讲个人层面，再讲社会层面。** 这样既避免空泛口号，也能自然过渡到公共建议。
 - **结尾回扣材料的“教训”。** 材料题的结尾不是图表题的趋势预测，也不是图画题的泛泛呼吁。
+
+## 五、双图表作文（不常见）
+
+### 适用判断
+
+题目同时提供两张图表。两图可能都是静态分布图、都是动态图，也可能一张展示变化、另一张展示结构。首段不能只把两张图并列罗列，必须说明它们围绕的共同主题，以及二者之间是互补、解释、对比还是限制关系。
+
+### 四种组合入口
+
+根据左右两图的性质选择一个入口。四种入口只负责“描述和连接”，第二、三段使用同一套解释与评论结构。
+
+**静态图＋静态图**
+
+```text
+The two charts present complementary information about 【共同主题】. The left
+【chart type】 shows the distribution of 【图表主题一】. Specifically,
+【项目A】 accounts for the largest share, at approximately 【数字一】, while
+【项目B】 makes up about 【数字二】. By comparison, 【项目C】 and 【项目D】
+represent smaller shares. The right 【chart type】 further presents
+【图表主题二】, with 【项目E】 ranking first at 【数字三】, followed by
+【项目F】 at 【数字四】. Taken together, the figures suggest that
+【两图共同说明的现象】.
+```
+
+**动态图＋动态图**
+
+```text
+The two charts reveal related changes in 【共同主题】. The left 【chart type】
+shows that 【项目A】 rose/fell from 【数字一】 to 【数字二】 between 【时间一】
+and 【时间二】, while 【项目B】 increased/decreased from 【数字三】 to
+【数字四】. Over the same period, the right 【chart type】 records a similar/
+contrasting trend in 【图表主题二】: 【项目C】 rose/fell from 【数字五】 to
+【数字六】, and 【项目D】 changed from 【数字七】 to 【数字八】. The two trends
+jointly point to 【共同说明的现象】.
+```
+
+**左动态图＋右静态图**
+
+```text
+The two charts describe different aspects of 【共同主题】. The left 【chart type】
+illustrates changes in 【图表主题一】 between 【时间一】 and 【时间二】.
+In particular, 【项目A】 rose/fell from 【数字一】 to 【数字二】, while
+【项目B】 changed from 【数字三】 to 【数字四】. The right 【chart type】 then
+shows the distribution of 【图表主题二】: 【项目C】 accounts for the largest
+share at 【数字五】, followed by 【项目D】 at 【数字六】. Together, the charts
+indicate that 【趋势与结构之间的关系】.
+```
+
+**左静态图＋右动态图**
+
+```text
+The two charts shed light on 【共同主题】 from complementary perspectives. The
+left 【chart type】 presents the distribution of 【图表主题一】. 【项目A】 takes
+the largest share at 【数字一】, while 【项目B】 represents 【数字二】; the
+remaining categories account for smaller proportions. The right 【chart type】,
+meanwhile, records changes in 【图表主题二】 between 【时间一】 and 【时间二】.
+For example, 【项目C】 rose/fell from 【数字三】 to 【数字四】. This combination
+of structure and change suggests that 【共同说明的现象】.
+```
+
+### 主体段与结尾
+
+```text
+The relationship between the two charts is unlikely to be accidental. On the
+one hand, 【政策、技术、教育或社会变化】 has influenced 【图表一反映的行为】
+by 【作用机制】. On the other hand, 【资源、能力、年龄、成本或制度限制】 has
+affected 【图表二反映的结构或差异】. More importantly, the second chart helps
+to explain or qualify the first: 【两图之间的具体关系】. Thus, the figures
+reflect not merely isolated numbers, but 【更深层的社会意义】.
+
+In my view, 【总体判断】. Individuals should 【个人行动】, while schools,
+businesses and relevant public institutions should 【公共措施】. Only when
+【关键条件】 is met can 【共同主题】 develop in a more balanced and sustainable
+way.
+```
+
+### 双图表专属解读
+
+- **先判图，再判关系。** 先分别判断左右图是静态还是动态，再决定用哪一种入口；不要看到两张图就默认写成动态图。
+- **数据不求全。** 每张图选择最能支撑共同主题的 1—2 组数据即可，避免首段失控。
+- **比例口径必须核对。** 如果若干百分比合计超过 100%，优先写 `reported reasons`、`the percentages of respondents` 或题面明确的统计口径，不要写 `component ratios` 或暗示互斥分类。
+- **单位必须照题面核验。** `万人` 不是 `thousand`；不确定时宁可写 `the figure increased from 【数字一】 to 【数字二】`，也不要擅自换算。
+- **主体段要解释两图关系。** 可以是“趋势解释结构”“结构限制趋势”“两图共同证明一个现象”，但不能只写泛泛的原因列表。
+
+### 样题填槽示范（原创改写）
+
+```text
+The two charts present complementary information about Internet access in
+China. The left combined chart shows that the number of Internet users rose
+from 68,826 to 103,195 ten-thousand persons between December 2015 and December
+2021, while the Internet penetration rate increased from 50.3% to 73.0%. The
+right chart reports several reasons why some people remained offline in
+December 2021, with limited knowledge of computers and networks ranking first.
+Taken together, the figures show both the expansion of Internet access and the
+continuing need to improve digital inclusion.
+```
+
+这段示范只用于说明如何连接两张图，不应在没有核对题面单位和统计口径时机械套用数字。
 
 ## 交卷前快速检查
 

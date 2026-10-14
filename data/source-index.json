@@ -33,6 +33,36 @@
       "read_scope": "Part B 题型、题面要求、范文结构；重点核验图画与图画加图表题",
       "copyright_risk": "high",
       "repository_policy": "只保存题型标签、验证结论和短引文"
+    },
+    {
+      "id": "SRC-DOUBLE-CHART-SAMPLE",
+      "file": "双图表_大纲样题范文.pdf",
+      "kind": "teaching-sample",
+      "read_scope": "2页；双图表样题、英文参考范文和中文对照；核验描述—解释—评论三段任务",
+      "storage": "private-materials/double-chart/双图表_大纲样题范文.pdf",
+      "sha256": "77C7C60D7A6FF7DD3558B8157725DEB3B75ABD19D5D0F16003CD2E3C93388595",
+      "copyright_risk": "high",
+      "repository_policy": "原件仅保存在本地受控资料目录；GitHub 只保存来源标识、研究笔记和原创蒸馏"
+    },
+    {
+      "id": "SRC-DOUBLE-CHART-OPENINGS",
+      "file": "双图表-开头(二三段用图表).pdf",
+      "kind": "third-party-template",
+      "read_scope": "7页；双静态、双动态、左动态右静态、左静态右动态四种双图表首段，以及图画加图表变体",
+      "storage": "private-materials/double-chart/双图表-开头(二三段用图表).pdf",
+      "sha256": "D1EFE89C57FABE65EAC0FBDDF0840912FB7E1FD0417A2B188F08BBEBD1D850FE",
+      "copyright_risk": "high",
+      "repository_policy": "只记录结构性观察，不复制模板原文"
+    },
+    {
+      "id": "SRC-DOUBLE-CHART-IMAGE",
+      "file": "双图表_大纲样题.jpg",
+      "kind": "exam-style-prompt-image",
+      "read_scope": "1张；双图表样题题面和数据标签，用于核对单位、时间、图表关系与百分比口径",
+      "storage": "private-materials/double-chart/双图表_大纲样题.jpg",
+      "sha256": "4AA3E2B03A0201B95B4A7BE7AC360296079640B223696A4725D8C4B417CF470A",
+      "copyright_risk": "high",
+      "repository_policy": "原图不进入 GitHub；只保留必要的事实核验笔记"
     }
   ]
 }

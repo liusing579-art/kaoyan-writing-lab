@@ -1,0 +1,33 @@
+{
+  "id": "TEMPLATE-DOUBLE-CHART-001",
+  "title": "双图表作文组合识别与迁移模板",
+  "knowledge_type": "template",
+  "status": "reviewing",
+  "evidence_level": "source-backed",
+  "source_refs": ["SRC-DOUBLE-CHART-SAMPLE", "SRC-DOUBLE-CHART-OPENINGS", "SRC-DOUBLE-CHART-IMAGE"],
+  "tags": ["双图表", "静态加静态", "动态加动态", "动态加静态", "静态加动态", "单位核验"],
+  "original_observation": "新增资料提供双静态、双动态、左动态右静态、左静态右动态四种组合入口。样题左图同时呈现网民规模和互联网普及率变化，右图呈现非网民不上网的原因及比例。",
+  "ai_analysis": "双图表的核心不是把两张图分别写一遍，而是先识别两张图的共同主题和关系。样题中的网民规模单位为‘万人’，英文参考范文写成 thousand 存在单位风险；右图百分比合计超过100%，更可能是可多选原因，不能直接称作互斥构成比例。原资料部分表达如 component ratios、presented discloses 和 in rich detail 不够自然，需要原创改写。",
+  "distilled_rule": "先判断左图和右图分别是静态分布还是动态变化，再用同一段首段完成共同主题、图表关系和关键数据的整合；写数据前核对单位、时间、比例口径和是否允许多选，主体段解释两图之间的因果、互补或限制关系。",
+  "teaching_use": "作为第五类低频大作文的识别训练、模板备用和数据严谨性训练。",
+  "template": "The two charts present complementary information about [common topic]. The left [chart type] shows [trend or distribution], while the right [chart type] explains or compares [second dimension]. Taken together, they suggest that [central relationship].",
+  "interpretation": "双图表首段需要同时回答‘两张图分别显示什么’和‘两张图合起来说明什么’。第二段不机械重复数据，而是解释两图之间的关系；第三段根据题目给出的风险或发展方向提出个人与公共层面的建议。",
+  "validation_cases": [
+    {
+      "case_id": "DOUBLE-CHART-SAMPLE-2021-INTERNET-ACCESS",
+      "result": "pending",
+      "note": "已完成来源读取和单位、比例口径核验，尚未完成独立成文测试和双作者审核。"
+    }
+  ],
+  "conflicts": [
+    "英文参考范文把‘万人’写成 thousand，正式教材不得照搬，必须按题面单位或权威来源核验。",
+    "右图四项比例合计超过100%，不宜直接写成 mutually exclusive components；应根据题面改写为 reported reasons、percentages of respondents 或 multiple responses。",
+    "原资料中的部分搭配不自然，不能将其当作现成高分表达。"
+  ],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-14",
+    "reviewers": [],
+    "next_action": "用至少一组双图表真题或模拟题测试四种组合入口，重点检查数据口径、两图关系、词数和语言自然度。"
+  }
+}

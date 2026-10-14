@@ -19,7 +19,8 @@ export default defineConfig({
         { text: '图画作文', link: '/essay/picture' },
         { text: '图表作文', link: '/essay/chart' },
         { text: '图画加图表作文', link: '/essay/picture-chart' },
-        { text: '材料作文', link: '/essay/material' }
+        { text: '材料作文', link: '/essay/material' },
+        { text: '双图表作文', link: '/essay/double-chart' }
       ],
       '/knowledge/': [
         { text: '审核看板', link: '/knowledge/review-board' },
