@@ -9,8 +9,8 @@ hero:
       text: 查看大作文样章
       link: /essay/overview
     - theme: alt
-      text: 查看审核看板
-      link: /knowledge/review-board
+      text: 打开四类模板总表
+      link: /essay/template-pack
 features:
   - title: 证据可追溯
     details: 每条知识记录来源、分析、结论和验证案例，避免“AI 已经学会”的错觉。
@@ -32,3 +32,7 @@ features:
 | 材料作文 | 概括材料并提炼立场 | 解释观点成立条件 | 把观点转化为行动 |
 
 这套结构目前处于首轮研发阶段。`verified` 只用于已经完成来源核验、真题测试和双作者审核的条目。
+
+## 先看成品模板
+
+如果你的目标是直接备课、背诵或排版，请先进入[四类大作文模板总表](/essay/template-pack)。页面集中提供四种题型的完整英文模板、可替换槽位、中文解读和使用边界；四个分类页保留更细的题型说明与研究记录。

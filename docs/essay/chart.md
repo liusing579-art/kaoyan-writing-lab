@@ -2,6 +2,8 @@
 
 <span class="status-reviewing">reviewing · 动态静态入口已建立</span>
 
+> 需要直接背诵和替换的完整版本，请先看[四类大作文模板总表](/essay/template-pack)。
+
 图表作文的任务不是抄完所有数据，而是准确写出总体趋势、最大变化和有意义的对比。
 
 ## 动态图表首段

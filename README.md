@@ -44,3 +44,4 @@ AGENTS.md                   Codex 和协作者共同遵守的规则
 - Codex 完整指令：[`docs/guide/codex-prompt.md`](./docs/guide/codex-prompt.md)
 - 审核状态：[`docs/knowledge/review-board.md`](./docs/knowledge/review-board.md)
 - 教材样章：[`docs/essay/overview.md`](./docs/essay/overview.md)
+- 四类模板总表：[`docs/essay/template-pack.md`](./docs/essay/template-pack.md)

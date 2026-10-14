@@ -15,6 +15,7 @@ export default defineConfig({
     sidebar: {
       '/essay/': [
         { text: '大作文总览', link: '/essay/overview' },
+        { text: '四类模板总表', link: '/essay/template-pack' },
         { text: '图画作文', link: '/essay/picture' },
         { text: '图表作文', link: '/essay/chart' },
         { text: '图画加图表作文', link: '/essay/picture-chart' },

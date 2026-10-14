@@ -2,6 +2,8 @@
 
 <span class="status-draft">draft · 需要独立材料题测试集</span>
 
+> 需要直接背诵和替换的完整版本，请先看[四类大作文模板总表](/essay/template-pack)。
+
 材料作文的首要任务是准确概括材料并提炼立场。不能直接套用图画作文的 `The picture presents...`，也不能把材料中的个案扩展成普遍事实。
 
 ## 首段：概括与立意
