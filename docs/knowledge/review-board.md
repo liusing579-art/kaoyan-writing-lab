@@ -19,6 +19,7 @@
 | `TEMPLATE-PICTURE-CHART-001` | 图画加图表整合模板 | <span class="status-reviewing">reviewing</span> | partially-validated | 复核两个整合变体 |
 | `TEMPLATE-MATERIAL-001` | 材料作文观点提炼模板 | <span class="status-draft">draft</span> | inferred | 建立材料题测试集 |
 | `TEMPLATE-DOUBLE-CHART-001` | 双图表组合识别与迁移模板 | <span class="status-reviewing">reviewing</span> | source-backed | 用双图表真题测试四种组合入口 |
+| `REAL-ESSAYS-2010-2026-001` | 2010–2026 英语一作文真题年度索引 | <span class="status-reviewing">reviewing</span> | source-backed | 双作者复核主题标签；完成代表题模板测试 |
 
 ## 审核规则
 

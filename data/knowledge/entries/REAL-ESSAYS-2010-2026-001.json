@@ -1,0 +1,51 @@
+{
+  "id": "REAL-ESSAYS-2010-2026-001",
+  "title": "2010-2026英语一作文真题题型与主题索引",
+  "knowledge_type": "diagnostic",
+  "status": "reviewing",
+  "evidence_level": "source-backed",
+  "source_refs": [
+    "SRC-ENGLISH1-ESSAYS-2010-2023-DOCX",
+    "SRC-ENGLISH1-ESSAYS-2010-2023-AI-PACK",
+    "SRC-ENGLISH1-ESSAYS-2016-2025-PDF",
+    "SRC-ENGLISH1-ESSAYS-2026-PAPER"
+  ],
+  "tags": ["英语一", "2010-2026", "真题索引", "应用文", "图画作文", "图表作文", "图画加图表", "双图表"],
+  "original_observation": "项目资料覆盖2010—2026年英语一写作。Task 1涵盖通知、推荐、欢迎、邀请、建议、项目说明、回复询问等交际任务。Task 2在2010—2023年以图画/图画组为主，2024年出现图画加图表，2025年为表格，2026年为围绕养老机器人接受度与关注点的调查图表。历年题目普遍要求描述材料、解释含义并给出评论，但必须以当年题面指令为准。",
+  "ai_analysis": "跨年索引显示，图画模板覆盖面较大，但不能代表大作文只有图画题。双图对照、标题/对话、图画加图表、表格和双图表都需要适配入口。主题标签是从题面证据提炼的研发分析，不是命题方标准主题；2026图表中各数值与类别的精确对应尚未单独视觉核验，因此只记录题目调查主题和可读的维度标签。",
+  "distilled_rule": "年度真题索引应分别记录任务要求、材料形式、题面可见事实与主题分析；优先以跨类型代表题测试模板覆盖，不以主题相似替代题型识别。题面事实可来源核对，模板适配与主题迁移需单独测试并经作者复核。",
+  "teaching_use": "作为英语一作文年度检索表、Task 1交际功能库和Task 2模板覆盖测试集入口；特别用于核验双图关系、图画加图表整合、表格趋势描述及调查图表统计口径。",
+  "template": "Identify the task and material type; record only the most informative visual or numerical evidence; explain the relationship or implied meaning; then offer a comment tied to the evidence.",
+  "interpretation": "该条目是按年份组织的真题题型索引，不是逐题范文，也不证明某套模板已经通过全部年份测试。",
+  "validation_cases": [
+    {"case_id": "ESSAY-2010-TASK2", "result": "pending", "note": "题型与摘要已收入年度索引；模板成文测试待进行。"},
+    {"case_id": "ESSAY-2011-TASK2", "result": "pending", "note": "题型与标题摘要已收入；主题迁移测试待进行。"},
+    {"case_id": "ESSAY-2012-TASK2", "result": "pending", "note": "题面与对照关系摘要已收入；模板成文测试待进行。"},
+    {"case_id": "ESSAY-2013-TASK2", "result": "pending", "note": "题型与象征场景摘要已收入；模板成文测试待进行。"},
+    {"case_id": "ESSAY-2014-TASK2", "result": "pending", "note": "双图关系已收入；双图模板测试待进行。"},
+    {"case_id": "ESSAY-2015-TASK2", "result": "pending", "note": "题型与标题摘要已收入；科技沟通主题测试待进行。"},
+    {"case_id": "ESSAY-2016-TASK2", "result": "pending", "note": "双图关系已由汇总资料与PDF交叉核对；模板测试待进行。"},
+    {"case_id": "ESSAY-2017-TASK2", "result": "pending", "note": "双图与‘有书/读书’对照已收入；模板测试待进行。"},
+    {"case_id": "ESSAY-2018-TASK2", "result": "pending", "note": "图画形式及选课场景已收入；避免过度推断具体选项。"},
+    {"case_id": "ESSAY-2019-TASK2", "result": "pending", "note": "登山者休息后继续的画面摘要已与PDF参考材料交叉核对。"},
+    {"case_id": "ESSAY-2020-TASK2", "result": "pending", "note": "双图学习态度对照已与PDF参考材料交叉核对；模板测试待进行。"},
+    {"case_id": "ESSAY-2021-TASK2", "result": "pending", "note": "戏曲兴趣与父亲鼓励的画面摘要已与PDF参考材料交叉核对。"},
+    {"case_id": "ESSAY-2022-TASK2", "result": "pending", "note": "校园讲座与跨学科学习对话已与PDF参考材料交叉核对。"},
+    {"case_id": "ESSAY-2023-TASK2", "result": "pending", "note": "龙舟赛事与社区场景已与PDF参考材料交叉核对。"},
+    {"case_id": "ESSAY-2024-TASK2", "result": "pending", "note": "图画加图表题型、2020—2022公园数量变化已与PDF核对；组合模板成文测试待进行。"},
+    {"case_id": "ESSAY-2025-TASK2", "result": "pending", "note": "表格题、统计对象与总体增长趋势已与PDF核对；数据描述模板测试待进行。"},
+    {"case_id": "ESSAY-2026-TASK2", "result": "pending", "note": "题面确认是养老机器人接受度与关注点调查图表；各数值与类别映射及模板测试待视觉复核。"}
+  ],
+  "conflicts": [
+    "2010—2023 DOCX与结构化资料包提供题面/题图依据；2016—2025 PDF交叉核对2016—2025；2026 PDF提供当年题面。资料来源类型和版权风险详见source-index。",
+    "2020年Task 1结构化资料保留源文件拼写‘White a notice’；本索引只概括任务，不据此改写原始题面。",
+    "主题标签及可训练能力属于AI研发分析，需作者复核；不能标为原始题目观点。",
+    "2026调查图表的数值与类别对应尚未视觉核定，本索引不抄录具体百分比。"
+  ],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-16",
+    "reviewers": [],
+    "next_action": "两位作者复核2010—2026主题标签与摘要；视觉核对2026调查图表各数据与类别的对应关系；用2014/2017/2020双图、2024图画加图表、2025表格及2026调查图表完成代表性模板成文测试。"
+  }
+}
