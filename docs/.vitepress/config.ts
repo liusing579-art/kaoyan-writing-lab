@@ -17,6 +17,7 @@ export default defineConfig({
         { text: '大作文总览', link: '/essay/overview' },
         { text: '五类模板总表', link: '/essay/template-pack' },
         { text: '2010-2026真题一览', link: '/essay/real-essays-2010-2026' },
+        { text: '第二段主题论证与句型库', link: '/essay/theme-argument-bank' },
         { text: '图画作文', link: '/essay/picture' },
         { text: '图表作文', link: '/essay/chart' },
         { text: '图画加图表作文', link: '/essay/picture-chart' },

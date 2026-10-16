@@ -11,6 +11,7 @@
 - 槽位必须具体到题目。不要把 `【中心主题】` 永远写成 *importance*、*development* 或 *education*，应替换为 *the willingness to take responsibility*、*the balanced use of technology* 等可解释的主题。
 - 模板提供句法和论证顺序，不替代审题。数字、动作、因果关系和建议必须与题目一致。
 - 全文长度会随替换内容变化；定稿时删去不适合题目的可选句，确保符合目标考试的字数要求。
+- 第二段需要按题目主题具体展开时，可搭配[第二段主题论证与句型库](/essay/theme-argument-bank)；那里按“观点—机制—结果”提供主题链和原创句式，不要求固定使用某三种论证方法。
 
 ## 一、图画作文（常见）
 

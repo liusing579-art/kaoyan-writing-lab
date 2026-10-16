@@ -1,0 +1,41 @@
+{
+  "id": "ARGUMENT-BANK-001",
+  "title": "第二段主题论证模块与表达句型库",
+  "knowledge_type": "argument",
+  "status": "reviewing",
+  "evidence_level": "source-backed",
+  "source_refs": [
+    "SRC-ARGUMENT-SUMMARY-PATTERNS-09",
+    "SRC-ARGUMENT-SUMMARY-METHODS-10",
+    "SRC-ARGUMENT-SUMMARY-METHODS-11",
+    "SRC-ARGUMENT-SUMMARY-PARA2-12",
+    "SRC-ENGLISH1-ESSAYS-2010-2023-AI-PACK",
+    "SRC-ENGLISH1-ESSAYS-2016-2025-PDF",
+    "SRC-ENGLISH1-ESSAYS-2026-PAPER"
+  ],
+  "tags": ["大作文", "第二段", "主题语料", "因果论证", "例证", "句型", "真题试配"],
+  "original_observation": "四份AI总结资料讨论了第二段的例证、因果、反面推演、数据列举、定义解释、让步句、比较结构、虚拟语气、建议句、比喻和排比，并提供多个主题示例。它们对工具数量与固定化策略并不一致，部分示例建议编造名人引语、调查数据或机构信息。",
+  "ai_analysis": "可迁移的核心不是背定量工具清单，而是说明观点如何产生影响：题面证据—主题判断—作用机制—结果。学习成长、个人选择与韧性、技术与生活质量、人际责任、文化社区是2010—2026真题中便于检索的交叉主题。编造引语/数据/权威来源会破坏可信度；固定三种工具终身不变也忽略题目、篇幅和学生能力差异。",
+  "distilled_rule": "第二段按题目选择一条清晰的论证链，通常使用一个机制解释并辅以一个贴题例子、结果或让步。只使用有题面或可信来源支持的事实；句式服务于逻辑，不为凑字数堆叠复杂结构。",
+  "teaching_use": "与五类大作文模板配套，帮助学生根据题目主题扩写第二段；可用于图画寓意解释、图表趋势释义、组合材料关系说明和材料观点论证。",
+  "template": "[Theme claim]. One reason is that [mechanism]. When [condition/action], [group] can [direct result], which in turn [further result]. For example / Although [support or limitation], [tie back to prompt].",
+  "interpretation": "该条目同时提供主题聚类、论证选择原则和原创句型；不是要求每题都按同一顺序使用全部句式。",
+  "validation_cases": [
+    {"case_id": "ESSAY-2019-TASK2-PARA2", "result": "pending", "note": "以登山图试配坚持与休整主题；需两位作者复核，并安排限时成文。"},
+    {"case_id": "ESSAY-2022-TASK2-PARA2", "result": "pending", "note": "以校园讲座图试配跨学科学习主题；需复核主题概括与表达自然度。"},
+    {"case_id": "ESSAY-2024-TASK2-PARA2", "result": "pending", "note": "以公园数量图画加图表题检验数据释义与生活影响的衔接。"},
+    {"case_id": "ESSAY-2026-TASK2-PARA2", "result": "pending", "note": "以养老机器人调查图表试配技术接受度主题；不补写未核实的数值对应。"}
+  ],
+  "conflicts": [
+    "来源资料一处主张从11个工具中选3个并永久固定，另一处主张只选最擅长的1—2种；最终建议按题目功能和篇幅灵活选择。",
+    "来源中出现编造名人名言、统计数据或权威机构名称的建议；本产品明确不采用，证据必须真实或明确标为假设性解释。",
+    "部分来源例句存在搭配、时态或逻辑不自然；本条目只收录经语法与语义筛查后的原创框架。",
+    "来源把第二段一概定义为原因分析；图表和材料题第二段也可能需要解释趋势、关系、条件或论点，不应被‘原因’单一标签限制。"
+  ],
+  "review": {
+    "owner": "Codex",
+    "last_reviewed": "2026-10-16",
+    "reviewers": [],
+    "next_action": "两位作者复核五类主题聚类和句型自然度；用2019、2022、2024、2026题完成限时第二段写作，并记录适配/需改写点。"
+  }
+}

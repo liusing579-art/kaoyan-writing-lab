@@ -47,3 +47,4 @@ AGENTS.md                   Codex 和协作者共同遵守的规则
 - 教材样章：[`docs/essay/overview.md`](./docs/essay/overview.md)
 - 五类模板总表：[`docs/essay/template-pack.md`](./docs/essay/template-pack.md)
 - 2010-2026 真题一览：[`docs/essay/real-essays-2010-2026.md`](./docs/essay/real-essays-2010-2026.md)
+- 第二段主题论证与句型库：[`docs/essay/theme-argument-bank.md`](./docs/essay/theme-argument-bank.md)

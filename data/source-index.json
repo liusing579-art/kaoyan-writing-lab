@@ -103,6 +103,46 @@
       "sha256": "628FE795924924F975FA99E90DB044BB844B4DC94502646F691F0A49B0498DD6",
       "copyright_risk": "high",
       "repository_policy": "原件仅保存在本地受控资料目录；仓库只保留题型摘要、来源标识和原创分析，不复制试题页面"
+    },
+    {
+      "id": "SRC-ARGUMENT-SUMMARY-PATTERNS-09",
+      "file": "09.第二节写作满分句型和高分词汇四英语的特殊结构的满分句型（三）~（七）_AI总结.docx",
+      "kind": "ai-generated-teaching-summary",
+      "read_scope": "全文；核对虚拟语气、建议句、双重否定、插入语、比喻和排比等表达主张及示例",
+      "storage": "private-materials/argument-patterns-2026-10/09.第二节写作满分句型和高分词汇四英语的特殊结构的满分句型（三）~（七）_AI总结.docx",
+      "sha256": "342CC70D8B0E8FED7C6C22CFB67D1F601D077B4C50D2845440A06764509F8516",
+      "copyright_risk": "high",
+      "repository_policy": "原件留在本地受控目录；只保留批判性研究结论、通用语法规则和原创改写，不复刻来源段落或长句"
+    },
+    {
+      "id": "SRC-ARGUMENT-SUMMARY-METHODS-10",
+      "file": "10.第三节段落写作一神奇的论证方式（一）~（四）_AI总结.docx",
+      "kind": "ai-generated-teaching-summary",
+      "read_scope": "全文；核对例证、引用、因果、反面论证方法与篇幅建议",
+      "storage": "private-materials/argument-patterns-2026-10/10.第三节段落写作一神奇的论证方式（一）~（四）_AI总结.docx",
+      "sha256": "52AA0EA7BEC03984957405F2D1C4CE721161429F7E5A8BAACD8114487F0B78F3",
+      "copyright_risk": "high",
+      "repository_policy": "原件留在本地受控目录；只保留批判性研究结论、论证功能归纳和原创改写"
+    },
+    {
+      "id": "SRC-ARGUMENT-SUMMARY-METHODS-11",
+      "file": "11.第三节段落写作一神奇的论证方式（五）（六）_AI总结.docx",
+      "kind": "ai-generated-teaching-summary",
+      "read_scope": "全文及1张表格；核对数据列举、定义解释、概念行为化示例与适用限制",
+      "storage": "private-materials/argument-patterns-2026-10/11.第三节段落写作一神奇的论证方式（五）（六）_AI总结.docx",
+      "sha256": "0691CC857E290E4269C38E9AC8CDDD0C83C2568A0E62CD577E389D543A045915",
+      "copyright_risk": "high",
+      "repository_policy": "原件留在本地受控目录；不传播未核实统计、机构归属或来源样句"
+    },
+    {
+      "id": "SRC-ARGUMENT-SUMMARY-PARA2-12",
+      "file": "12.第三节段落写作二大作文第二段总结_AI总结.docx",
+      "kind": "ai-generated-teaching-summary",
+      "read_scope": "全文；核对第二段结构、论证工具组合、主题示例及固定模板主张",
+      "storage": "private-materials/argument-patterns-2026-10/12.第三节段落写作二大作文第二段总结_AI总结.docx",
+      "sha256": "3B9243715EEF90511169EC5D2DD6F2A738C80D20AE12605E4AA9126BAEF0C9E2",
+      "copyright_risk": "high",
+      "repository_policy": "原件留在本地受控目录；只保留批判性研究结论和原创、可迁移教学内容"
     }
   ]
 }
