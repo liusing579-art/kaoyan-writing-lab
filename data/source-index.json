@@ -143,6 +143,42 @@
       "sha256": "3B9243715EEF90511169EC5D2DD6F2A738C80D20AE12605E4AA9126BAEF0C9E2",
       "copyright_risk": "high",
       "repository_policy": "原件留在本地受控目录；只保留批判性研究结论和原创、可迁移教学内容"
+    },
+    {
+      "id": "SRC-WEB-THEME-FRAMEWORK-XDF-2017",
+      "file": "2010-2017年考研英语一作文题目及出题特点",
+      "url": "https://kaoyan.xdf.cn/201704/10641283.html",
+      "kind": "public-web-teaching-analysis",
+      "read_scope": "主题上位框架：个人自身发展、个人与他人/社会、个人与自然；仅吸收分类维度，不复制其内容",
+      "copyright_risk": "low",
+      "repository_policy": "引用页面链接并概述分类框架；真题事实以项目内核验资料为准"
+    },
+    {
+      "id": "SRC-WEB-EXAM-REVIEW-2024",
+      "file": "2024 研究生入学考试英语一整体评述",
+      "url": "https://daxueui-cos.koocdn.com/images/fe_upload/2023/12/2023-12-24-1703385577764.pdf",
+      "kind": "public-web-exam-analysis",
+      "read_scope": "英语一图画加图表题的公园/文化基础设施分析及文化、教育、经济、科技、环境等内容领域框架",
+      "copyright_risk": "low",
+      "repository_policy": "只记录主题分类启发；逐题事实回到真题原卷核对"
+    },
+    {
+      "id": "SRC-WEB-EXAM-REVIEW-2025",
+      "file": "2025年考研英语(一)命题趋势与特点、题目难度解析",
+      "url": "https://www.xdf.cn/1010/202501/14043185.html",
+      "kind": "public-web-exam-analysis",
+      "read_scope": "2025英语一耐用消费品图表的居民消费/生活水平解释及现象分析定位",
+      "copyright_risk": "low",
+      "repository_policy": "仅采用分析视角，不复制页面段落；真题信息以项目内原卷复核"
+    },
+    {
+      "id": "SRC-WEB-THEME-TAXONOMY-XDF-2025",
+      "file": "考研英语大作文近十年题目全景解析：出题特点与备考策略",
+      "url": "https://kaoyan.xdf.cn/202511/15001551.html",
+      "kind": "public-web-teaching-analysis",
+      "read_scope": "社会现象/品质态度二分法；与项目真题索引对照后发现所举若干年份例题错配，因此仅评估其分类维度，不采信例年和频率比例",
+      "copyright_risk": "low",
+      "repository_policy": "保留来源链接及批判性核验结论，不复用其错配的年份标签或频率断言"
     }
   ]
 }

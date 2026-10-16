@@ -30,6 +30,7 @@ export default defineConfig({
       ],
       '/guide/': [
         { text: '工作流程', link: '/guide/workflow' },
+        { text: '主题分类核验', link: '/guide/theme-taxonomy-audit' },
         { text: '审核状态', link: '/guide/review-status' },
         { text: '版权与权限', link: '/guide/copyright' },
         { text: 'Codex 完整指令', link: '/guide/codex-prompt' },
